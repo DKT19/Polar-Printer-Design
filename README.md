@@ -1,2 +1,2 @@
 # Polar-Printer-Design
-Code used to assist in design of polar bioprinter.
+Code used to assist in dynamics design of polar bioprinter.
